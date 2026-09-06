@@ -10,4 +10,4 @@ match seat_type:
   case "luxury":
     print("Full Air conditioned cabins with food available!")
   case _:
-    
+    print("Seat type mismatched")
