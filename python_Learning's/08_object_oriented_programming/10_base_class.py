@@ -20,3 +20,4 @@ class Chai:
 class GingerChai(Chai):
   def __init__(self, type_, strength):
     super().__init__(type_, strength)
+    
